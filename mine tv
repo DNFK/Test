@@ -1,0 +1,32 @@
+#EXTM3U
+
+
+#EXTINF:-1,group-title="TV & MOVIES",BT Sport 2 HD
+http://d2y1jox0k9gcoy.cloudfront.net/live/live/chunks.m3u8
+
+#EXTINF:-1,group-title="TV & MOVIES",BT Sport 2 HD
+http://d2y1jox0k9gcoy.cloudfront.net/live/live/playlist.m3u8
+
+#EXTINF:-1,group-title="TV & MOVIES",BT Sport 2 HD
+https://wowzaprod169-i.akamaihd.net/hls/live/630449/5719850c/playlist.m3u8
+
+#EXTINF:-1,group-title="TV & MOVIES",BT Sport 2 HD
+https://wowzaprod169-i.akamaihd.net/hls/live/630449/5719850c_1_2728/chunklist.m3u8
+
+#EXTINF:-1,group-title="TV & MOVIES",BT Sport 2 HD
+http://103.252.220.38:8081/hls/Stream-5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE4IDc6MjA6MzQgUE0maGFzaF92YWx1ZT1IRXpuTUFTdEs1bXlGL3NrOVlKSkZRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,group-title="TV & MOVIES",BT Sport 2 HD
+http://103.252.220.38:8081/hls/Stream-5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE4IDc6MjA6MzQgUE0maGFzaF92YWx1ZT1IRXpuTUFTdEs1bXlGL3NrOVlKSkZRPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1,group-title="TV & MOVIES",FOX Sports 1
+http://195.154.133.77/live/fs1.m3u8
+
+#EXTINF:-1,group-title="TV & MOVIES",FOX Sports 1
+https://hls305304.r-cdn.com/trn_61801/194/720p/playlist.m3u8?st=ecmQDEh23dCvCTzbM9HK5Q&e=1524777781
+
+#EXTINF:-1,group-title="TV & MOVIES",FOX Sports 1
+http://dvjpx437kzydp.cloudfront.net/live.m3u8
+
+#EXTINF:-1,group-title="TV & MOVIES",FOX Sports 1
+https://sportspf-redirect.cfapps.io/api/redirect/withBaseUrl/http://a4.aliez.me:8080/hls/streama63773/index.m3u8?st=F3j8E30KyhBqXcnmvxmomg
