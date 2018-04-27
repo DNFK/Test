@@ -58,11 +58,17 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2006.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1961.ts
 #EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 1 HD UK
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 1 HD 1080P" tvg-logo="" group-title="UK",VIP UK: BT Sports 1 HD 1080P
+http://client-proiptv.com:8080/live/I4haz9iSwE/mN0RRMIwpe/8178.ts
 #EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 1 UK
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/369.ts
 #EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 2 HD UK
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/368.ts
 #EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 2 UK
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 2 HD 1080P" tvg-logo="" group-title="UK",VIP UK: BT Sports 2 HD 1080P
+http://client-proiptv.com:8080/live/I4haz9iSwE/mN0RRMIwpe/8179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BT Sports 3 HD 1080P" tvg-logo="" group-title="UK",VIP UK: BT Sports 3 HD 1080P
+http://client-proiptv.com:8080/live/I4haz9iSwE/mN0RRMIwpe/8180.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/367.ts
 #EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 3 HD UK
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/366.ts
