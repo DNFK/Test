@@ -1,52 +1,18 @@
 #EXTM3U
-#EXTINF:-1,group-title="24",Episode 1
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E01%20-%20Day%201%2C%20%2012%2000%20A%20M%20%20-%201%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 2
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E02%20-%20Day%201%2C%20%201%2000%20A%20M%20%20-%202%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 3
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E03%20-%20Day%201%2C%20%202%2000%20A%20M%20%20-%203%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 4
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E04%20-%20Day%201%2C%20%203%2000%20A%20M%20%20-%204%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 5
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E05%20-%20Day%201%2C%20%204%2000%20A%20M%20%20-%205%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 6
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E06%20-%20Day%201%2C%20%205%2000%20A%20M%20%20-%206%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 7
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E07%20-%20Day%201%2C%20%206%2000%20A%20M%20%20-%207%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 8
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E08%20-%20Day%201%2C%20%207%2000%20A%20M%20%20-%208%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 9
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E09%20-%20Day%201%2C%20%208%2000%20A%20M%20%20-%209%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title=",Episode 10
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E10%20-%20Day%201%2C%20%209%2000%20A%20M%20%20-%2010%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 11
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E11%20-%20Day%201%2C%20%2010%2000%20A%20M%20%20-%2011%2000%20A%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 12
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E12%20-%20Day%201%2C%20%2011%2000%20A%20M%20%20-%2012%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 13
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E13%20-%20Day%201%2C%20%2012%2000%20P%20M%20%20-%201%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 14
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E14%20-%20Day%201%2C%20%201%2000%20P%20M%20%20-%202%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 15
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E15%20-%20Day%201%2C%20%202%2000%20P%20M%20%20-%203%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 16
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E16%20-%20Day%201%2C%20%203%2000%20P%20M%20%20-%204%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 17
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E17%20-%20Day%201%2C%20%204%2000%20P%20M%20%20-%205%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 18
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E18%20-%20Day%201%2C%20%205%2000%20P%20M%20%20-%206%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 19
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E19%20-%20Day%201%2C%20%206%2000%20P%20M%20%20-%207%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 20
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E20%20-%20Day%201%2C%20%207%2000%20P%20M%20%20-%208%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 21
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E21%20-%20Day%201%2C%20%208%2000%20P%20M%20%20-%209%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 22
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E22%20-%20Day%201%2C%20%209%2000%20P%20M%20%20-%2010%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 23
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E23%20-%20Day%201%2C%20%2010%2000%20P%20M%20%20-%2011%2000%20P%20M%20%20-%20Ehhhh.mkv
-#EXTINF:-1,group-title="24",Episode 24
-http://103.58.73.13/FTP-1/English%20%26%20Foreign%20TV%20Series/24%20%28TV%20Series%202001%E2%80%932010%29%20720p/Season%2001/S01E24%20-%20Day%201%2C%20%2011%2000%20P%20M%20%20-%2012%2000%20A%20M%20%20-%20Ehhhh.mkv
+#EXTINF:-1,group-title="Documentary",ITV.Harold.Shipman.Doctor.Death
+https://doc.downloadha.com/Behnam/Documentaries/May2018/ITV.Harold.Shipman.Doctor.Death.720p.HDTV.x265.AAC-MVGroup_www.Downloadha.com_.mkv
+#EXTINF:-1,group-title="Documentary",BBC.Conspiracy.Files.Murder.in.Washington.720p
+https://doc.downloadha.com/Behnam/Documentaries/April2018/BBC.Conspiracy.Files.Murder.in.Washington.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mkv
+#EXTINF:-1,group-title="Documentary",BBC.Dementia.Football.and.Me.720p
+https://doc.downloadha.com/Behnam/Documentaries/April2018/BBC.Dementia.Football.and.Me.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mkv
+#EXTINF:-1,group-title="Documentary",Hitlers.Miracle.Weapons.720p
+https://doc.downloadha.com/Behnam/Documentaries/March2018/Hitlers.Miracle.Weapons.720p.HDTV.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+#EXTINF:-1,group-title="Documentary",Hiroshima.Revealed.A.Journey.through.the.Shadows.of.the.Atomic.Bomb.Part.1
+https://doc.downloadha.com/Behnam/Documentaries/March2018/NHK.Hiroshima.Revealed.A.Journey.through.the.Shadows.of.the.Atomic.Bomb.Part.1.720p.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+#EXTINF:-1,group-title="Documentary",Hiroshima.Revealed.A.Journey.through.the.Shadows.of.the.Atomic.Bomb.Part.2
+https://doc.downloadha.com/Behnam/Documentaries/March2018/NHK.Hiroshima.Revealed.A.Journey.through.the.Shadows.of.the.Atomic.Bomb.Part.2.720p.x264.AAC-MVGroup_www.Downloadha.com_.mp4
+#EXTINF:-1,group-title="Documentary",One.Strange.Rock.S01E01
+https://doc.downloadha.com/Behnam/Documentaries/March2018/One.Strange.Rock.S01E01.Gasp.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb_www.Downloadha.com_.mkv
 
 ******************************************************************************************************************
 
